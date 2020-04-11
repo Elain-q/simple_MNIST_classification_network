@@ -14,6 +14,8 @@ A new edition with several dropout layers has been updated，command line is her
 ```
 python3 simplist_MNIST_classification_v3.py
 ```
+Besides,I have also some other editions,but they have few differences,so I dont't put them here.However,try to replace SGD with Adam or RMSprop,which I believe will surprise you a lot.
+
 Before you run the program,you also need to provide such a environment for it.
 
 1.python3
